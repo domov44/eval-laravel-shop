@@ -7,7 +7,7 @@
     "require": {
         "php": "^8.2",
         "calebporzio/sushi": "^2.5",
-        "laravel/framework": "^11.9",
+        "laravel/framework": "^11.41.3",
         "laravel/tinker": "^2.9",
         "livewire/livewire": "^3.5"
     },
